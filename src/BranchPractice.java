@@ -5,6 +5,7 @@ public class BranchPractice {
 		// TODO Auto-generated method stub
 
 		System.out.println("My name is Golam");
+		System.out.println("I like to code");
 		
 	}
 
